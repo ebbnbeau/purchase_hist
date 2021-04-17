@@ -1,5 +1,6 @@
 # purchase_hist
-Data : Purchase history exported from amazon personal account (ehhhhhhhh. kind of. its my brother's account shared amongst a couple of people)from Jan 2019 - Dec 2020
+Data : Purchase history exported from amazon personal account 
+(ehhhhhhhh. kind of. its my brother's account shared amongst a couple of people)from Jan 2019 - Dec 2020
 
 Code : Conducting exploratory data analysis and visualizations using Python Pandas/Numpy/Matplotlib/Seaborn
 
